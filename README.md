@@ -1,6 +1,9 @@
 # N26Connector
 A simple script to connect your N26 bank account to a Google Sheets cell.
 
+(I was tired of inputting my current balance manually into my Google Sheet's sheet, so why not)
+
+
 ## Usage
 Type in `N26("usableBalance",  "your email",  "your password",  cellReference)` into a Google Sheet cell.
 
