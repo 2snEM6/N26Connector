@@ -5,7 +5,7 @@ A simple script to connect your N26 bank account to a Google Sheets cell.
 
 
 ## Usage
-Type in `N26("usableBalance",  "your email",  "your password",  cellReference)` into a Google Sheet cell.
+Type in `N26("usableBalance",  "your email",  "your password",  cellReference)` into a Google Sheets cell.
 
 The method has 4 arguments:
 
